@@ -1,0 +1,66 @@
+
+
+- Microsoft Stack
+- Windows Azure (deployments - ARM Templates, IaaS, SaaS, PaaS) 
+- Sound knowledge or experience with the .Net framework (don't have to develop)
+- RESTful API's
+- Strong PowerShell scripting - writing to automate manual tasks
+- CI/CD - VSTS, TFS, TeamCity, Octopus Deploy
+- Designing/building scalable applications
+- SDLC knowledge and understanding
+Supporting, Managing and maintenance of Microsoft Azure
+Azure AD Connect & Azure AD
+Azure IAM
+Powershell (MS Online, Exchange Online & Skype Online)
+Skype for Business Online
+Security and policy management
+Office 365 intune MDM
+Microsoft Office 365 administration
+AD Connect, Azure CSP configuration
+Monitoring and managing your development work load
+Experience working in a managed services, outsourcing or professional services environment.
+Excellent complex-problem diagnosis technique
+Available to work after hours and/or travel interstate on occasion when required
+Azure certification 70-533
+Minimum of 3 years' experience working with SharePoint 2010 and above
+Experience with Office365 & SharePoint online
+Implementation and management of SharePoint infrastructures for 4000+ seat organisations.
+SharePoint Designer & InfoPath Forms Designer
+IIS 6/7.5 administration
+Experience with MSSQL 2008 R2 or above
+Understanding of load balancing, firewall & Active Directory
+ITIL Framework experience (Change, Incident, Problem)
+
+
+Vendor management
+Internal stakeholder management
+Process management
+Build business systems knowledge
+SharePoint, eCom, .NET deployment  & Business Application Support
+Strong in Installation, Configuration, Performance monitoring, Deployment, Patching of servers in SharePoint Farm
+Create new sites with unique permissions, list, libraries, user groups and workflows
+Assist with the migration to SharePoint online
+Must be able to discuss & understand  business needs and identify value creation opportunities and provide solutions
+Ensure SharePoint servers are healthy, maintained and available
+Automated/Manual deployment of Microservices/.Net manual using PowerShell or automation tools
+Proactive application management
+Monitoring of scheduled activities and providing corrective action where alerts or failures are identified
+Prepare and maintain system documentation
+Triage incidents
+Lifecycle and capacity planning
+
+
+Familiarity with Authentication of Active Directory and SharePoint Implementation in AWS Cloud
+
+Significant experience with design, development, workflows and implementation on the SharePoint platform
+
+Windows 7, and 10
+SCCM 2012
+MS Office packaging and deployment.
+Application packaging
+Trouble shooting incidents and defects
+Scripting (VBscript, Power Shell, Windows command files)
+ServiceNow help desk tool
+ITIL Service Management
+
+SharePoint maintenance and monitoring activities
